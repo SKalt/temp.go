@@ -1,0 +1,6 @@
+{
+    "gopls": {
+        "ui.documentation.hoverKind": "FullDocumentation", // default value
+        "ui.documentation.linksInHover": true, // default value
+    }
+}
